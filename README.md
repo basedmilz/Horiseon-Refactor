@@ -17,3 +17,4 @@ A revision of Horiseon's website site to add more accessibility
 ![Screenshot of added alt text](screenshot-alt-text-hs.png)
   
 [Link to Webpage](https://basedmilz.github.io/Horiseon-Refactor/)
+[Link to Repository](https://github.com/basedmilz/Horiseon-Refactor)
