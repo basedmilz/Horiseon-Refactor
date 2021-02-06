@@ -8,23 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -180,15 +180,57 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.footer h4{
-font-size: 20px;
-}
-/* .footer h4 { text-align: center;
-    font-size: 20px;
-} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div class="header">
+<h1>Hori<span class="seo">seo</span>n</h1>
+<div>
+<nav>
+<ul>
+    <li>
+        <a href="#search-engine-optimization">Search Engine Optimization</a>
+    </li>
+    <li>
+        <a href="#online-reputation-management">Online Reputation Management</a>
+    </li>
+    <li>
+        <a href="#social-media-marketing">Social Media Marketing</a>
+    </li>
+</ul>
+</div>
+
+</div> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
